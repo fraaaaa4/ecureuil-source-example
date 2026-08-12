@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "7z2407-arm",
+    "name": "7-Zip",
+    "version": "24.07",
+    "author": "Igor Pavlov",
+    "uploader": "kpt",
+    "source": "openrt.party",
+    "category": "Utilities",
+    "description": "Archiviatore di file.",
+    "dateOriginal": "2024-07-31",
+    "dateSource": "2026-08-13",
+    "size": "1677721",
+    "compatibility": [
+      "8.0",
+      "8.1",
+      "10"
+    ],
+    "iconUrl": "",
+    "screenshots": [],
+    "downloadUrl": "https://files.open-rt.party/apps/7zip/7z2407-arm.zip",
+    "language": [
+      "en-US"
+    ],
+    "isTrial": false
+  }
+]
