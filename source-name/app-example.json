@@ -1,0 +1,23 @@
+{
+  "id": //usually the name of the file itself on the original repositor,
+  "name": //name of the app,
+  "version:" //version of the app,
+  "author": //original creator of the app,
+  "uploader": //person who uploaded this entry,
+  "source": //id of the repository which is the source, MUST be the same as in sources.json,
+  "category": //category of the app, MUST be one in the category of the repo in sources.json,
+  "description": //description of the app,
+  "dateOriginal": //date of creation of the app, or upload on the original source,
+  "dateSource": //date of upload on the Ecureuil repo,
+  "size": //size in bytes,
+  "compatibility": [] //array as ["8.0", "8.1", "10"]. Remember to add all versions which are supported,
+  "iconUrl": //url for the icon,
+  "screenshots": [] //array of URLs of the screenshots,
+  "downloadUrl": //download URL must be openable in IE9 or superior,
+  "language": [] //language in which the app is offered; must be an array,
+  "isTrial": //true or false, true if it's trial version, otherwise false
+}
+
+//dates should be in the format YYYY-MM-DD, and contain no time
+//size must be in bytes; will be converted automatically by Ecureuil
+//languages must be written in standard format, e.g. en-US

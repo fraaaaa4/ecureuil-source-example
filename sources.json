@@ -1,0 +1,17 @@
+[
+  {
+    "id": //the id of the source,
+    "name": //name of the source,
+    "description": //description of the source,
+    "categories": [] //categories of the source; apps in the source must use one of these categories, and add an Undefined one too,
+    "url": "" //url of the finalised compiled JSON with all the apps,
+    "originalURL": //original url of the source, if you're planning to make it download from another website not yours,
+    "iconUrl": //icon for the source,
+    "author": //name of the author,
+    "authorLink": [] //links to socials or stuff for contacting the author,
+    "dateCreated": //date of creation of the source,
+    "isLocal": //true or false, true if it shouldn't be updated via the internet
+  },
+]
+
+//this file can contain more than one source if you wish to host more than one on, for example, a GitHub repository
