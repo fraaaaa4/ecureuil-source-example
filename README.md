@@ -20,7 +20,8 @@ A few infos inside should be the same between this file, and the app JSON files:
 ## App
 Each app json should be contained in the folder of their respective source, and there should be a separate JSON for each app.
 
-The file `app-example.json` contains all the infos needed for a single app. 
+The file `app-example.jsone` contains all the infos needed for a single app. This repository contains also an example 7-Zip entry, to verify that Actions actually work; you can check out the completed Action and file too. If you copy the example file, remember to rename it from .jsone to .json, as it’s renamed as such so the action can be completed while ignoring that example app.
+
 Once the GitHub Action completes, all the JSONs about apps will be put into a single JSON containing all the infos on the repos, and apps contained within. 
 Ecureuil will use this to populate the front-end.
 
