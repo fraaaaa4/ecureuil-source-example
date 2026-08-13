@@ -30,3 +30,4 @@
 //dates should be in the format YYYY-MM-DD, and contain no time
 //size must be in bytes; will be converted automatically by Ecureuil
 //languages must be written in standard format, e.g. en-US
+//architectures must be written as: arm32, arm64, x86-32, x86-64. Other formats will be displayed not formatted in the front-end
