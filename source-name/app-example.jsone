@@ -19,6 +19,7 @@
   "uninstallParameters": [] //parameters for uninstall,
   "isPortable": //true or false, true if it's portable, false if it's an installer,
   "compatibility": [] //array as ["8.0", "8.1", "10"]. Remember to add all versions which are supported,
+  "architecture": //arm32 for RT, or other architectures,
   "iconUrl": //url for the icon,
   "screenshots": [] //array of URLs of the screenshots,
   "downloadUrl": //download URL must be openable in IE9 or superior,
