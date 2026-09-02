@@ -11,13 +11,30 @@
     "dateOriginal": "2024-07-31",
     "dateSource": "2026-08-13",
     "size": "1677721",
+    "dependencies": [],
+    "instructionSteps": [
+      "Unzip the app",
+      "Run the 7-Zip executable"
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://www.7-zip.org/"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "7zFM.exe",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
     "compatibility": [
       "8.0",
       "8.1",
       "10"
     ],
-    "iconUrl": "",
-    "screenshots": [],
+    "iconUrl": "https://logodix.com/logo/1966283.png",
+    "screenshots": [
+      "https://images.filepuma.com/screenshots/compression/7-zip-(32bit)/wa_FP-yy2SQ4XHto.jpg"
+    ],
     "downloadUrl": "https://files.open-rt.party/apps/7zip/7z2407-arm.zip",
     "language": [
       "en-US"
