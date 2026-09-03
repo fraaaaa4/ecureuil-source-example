@@ -22,8 +22,8 @@
     ],
     "architecture": "arm32",
     "installParameters": [],
-    "DownloadPath": "7zFM.exe",
-    "fileType": "zip",
+    "DownloadPath": "7z2407-arm.exe",
+    "fileType": "exe",
     "uninstallParameters": [],
     "isPortable": true,
     "compatibility": [
@@ -35,7 +35,7 @@
     "screenshots": [
       "https://images.filepuma.com/screenshots/compression/7-zip-(32bit)/wa_FP-yy2SQ4XHto.jpg"
     ],
-    "downloadUrl": "https://files.open-rt.party/apps/7zip/7z2407-arm.zip",
+    "downloadUrl": "https://files.open-rt.party/Software/7z2407-arm.exe",
     "language": [
       "en-US"
     ],
