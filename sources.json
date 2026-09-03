@@ -3,15 +3,13 @@
     "id": "test",
     "name": "Ecureuil test source",
     "description": "This is the Ecureuil test source, to test Ecureuil during development",
-    "categories": ["Utilities"] //categories of the source; apps in the source must use one of these categories, and add an Undefined one too,
+    "categories": ["Utilities"],
     "url": "https://fraaaaa4.github.io/ecureuil-source-example/source-name-index.json",
     "originalURL": "",
     "iconUrl": "https://www.clipartmax.com/png/full/189-1893750_free-windows-xp-logo-transparent-background-windows-xp-icon-png.png",
-    "author": fratta,
+    "author": "fratta",
     "authorLink": ["https://github.com/fraaaaa4"],
     "dateCreated": "2026-09-03",
     "isLocal": false
   },
 ]
-
-//this file can contain more than one source if you wish to host more than one on, for example, a GitHub repository
