@@ -21,7 +21,7 @@ jobs:
 
       - name: Build catalog
         run: |
-          jq -s '.' source-name/*.json test2/*.json -> source-name-index.json || echo "[]" > source-name-index.json
+          jq -s '.' source-name/*.json test2/*.json > source-name-index.json
           #substitute source-name with the name of the folder containing the app JSONs
           #put as many sources you want just like I did with test2
 
