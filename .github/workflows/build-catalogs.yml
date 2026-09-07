@@ -7,6 +7,7 @@ on:
     paths:
       #substitute source-name with the name of the folder containing the app JSONs
       - 'source-name/**'
+      - 'test2/**'
 
 permissions:
   contents: write
