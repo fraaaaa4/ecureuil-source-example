@@ -16,7 +16,7 @@
     "id": "test2",
     "name": "Ecureuil test source 2",
     "description": "This is the second Ecureuil test source",
-    "category": ["Games", "Scripting"],
+    "categories": ["Games", "Scripting"],
     "url": "https://fraaaaa4.github.io/ecureuil-source-example/source-name-index.json",
     "originalUrl": "https://www.google.com",
     "iconUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7da8855e-55d1-4cd3-ba5b-f8f32c4cdc1d/df4yf8h-57822d54-286d-4fee-bb99-3e7fc8b8efdb.png/v1/fill/w_894,h_894,strp/windows_me_logo_by_mohamadouwindowsxp10_df4yf8h-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzdkYTg4NTVlLTU1ZDEtNGNkMy1iYTViLWY4ZjMyYzRjZGMxZFwvZGY0eWY4aC01NzgyMmQ1NC0yODZkLTRmZWUtYmI5OS0zZTdmYzhiOGVmZGIucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.re-dcZHYPTGgOjMXImT1lWkVPrIs0eJR1Pho9gZkk4E",
