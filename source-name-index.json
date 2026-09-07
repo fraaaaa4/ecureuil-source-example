@@ -91,5 +91,107 @@
       "fr-FR"
     ],
     "isTrial": false
+  },
+  {
+    "id": "sonicCD",
+    "name": "Sonic CD RSDK",
+    "version": "1.0",
+    "author": "SEGA Enterprise",
+    "uploader": "fratta",
+    "source": "test2",
+    "category": "Games",
+    "description": "Travel through past and future to save Little Planet from Dr. Robotnik, and Amy Rose from the hands of Metal Sonic! Travel to the past to destroy the robot generators, or recover the Time Stones in the brand new special stages. The brand new courses: Palmtree Panic, Collision Chaos, Tidal Tempest, Stardust Speedway, Metallic Madness, together with a new villain coming from Stardust Speedway: Metal Sonic, Sonic but if it was a robot.",
+    "dateOriginal": "1993-01-01",
+    "dateSource": "2026-09-07",
+    "size": "524288000",
+    "dependencies": [
+      "rsdk"
+    ],
+    "instructionSteps": [
+      "Unzip the app",
+      "Run RSDK executable"
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://en.wikipedia.org/wiki/Sonic_CD",
+      "https://en.wikipedia.org/wiki/Sonic_CD"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "RSDKv3-PSP-v1.1.zip",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1"
+    ],
+    "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/7d5e9e8f6bc4957b5054fb0f7efc417c.png",
+    "screenshots": [
+      "https://www.mobygames.com/images/shots/l/540590-sonic-cd-windows-screenshot-the-past-and-future-signposts.jpg",
+      "https://gamefabrique.com/storage/screenshots/sega-cd/sonic-cd-18.png",
+      "https://image.winudf.com/v2/image1/Y29tLnNlZ2Euc29uaWNjZC5jbGFzc2ljX3NjcmVlbl8xMl8xNTUxNzE5OTgwXzA3OQ/screen-7.jpg?fakeurl=1&type=.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/200940/ss_8f50293b156dea5903a995925c86285807a2eba2.jpg"
+    ],
+    "downloadUrl": "https://github.com/Koichive/RSDKv3-PSP/releases/download/1.0/RSDKv3-PSP-v1.1.zip",
+    "language": [
+      "en-US",
+      "de-DE",
+      "it-IT",
+      "ch-ZN",
+      "fr-FR"
+    ],
+    "isTrial": false
+  },
+  {
+    "id": "sonicCD2",
+    "name": "Sonic CD RSDKe",
+    "version": "1.0",
+    "author": "SEGA Enterprise",
+    "uploader": "fratta",
+    "source": "test2",
+    "category": "Games",
+    "description": "Travel through past and future to save Little Planet from Dr. Robotnik, and Amy Rose from the hands of Metal Sonic! Travel to the past to destroy the robot generators, or recover the Time Stones in the brand new special stages. The brand new courses: Palmtree Panic, Collision Chaos, Tidal Tempest, Stardust Speedway, Metallic Madness, together with a new villain coming from Stardust Speedway: Metal Sonic, Sonic but if it was a robot.",
+    "dateOriginal": "1993-01-01",
+    "dateSource": "2026-09-07",
+    "size": "524288000",
+    "dependencies": [
+      "rsdk"
+    ],
+    "instructionSteps": [
+      "Unzip the app",
+      "Run RSDK executable"
+    ],
+    "isImmersive": false,
+    "links": [
+      "https://en.wikipedia.org/wiki/Sonic_CD",
+      "https://en.wikipedia.org/wiki/Sonic_CD"
+    ],
+    "architecture": "arm32",
+    "installParameters": [],
+    "DownloadPath": "RSDKv3-PSP-v1.1.zip",
+    "fileType": "zip",
+    "uninstallParameters": [],
+    "isPortable": true,
+    "compatibility": [
+      "8.0",
+      "8.1"
+    ],
+    "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/7d5e9e8f6bc4957b5054fb0f7efc417c.png",
+    "screenshots": [
+      "https://www.mobygames.com/images/shots/l/540590-sonic-cd-windows-screenshot-the-past-and-future-signposts.jpg",
+      "https://gamefabrique.com/storage/screenshots/sega-cd/sonic-cd-18.png",
+      "https://image.winudf.com/v2/image1/Y29tLnNlZ2Euc29uaWNjZC5jbGFzc2ljX3NjcmVlbl8xMl8xNTUxNzE5OTgwXzA3OQ/screen-7.jpg?fakeurl=1&type=.jpg",
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/200940/ss_8f50293b156dea5903a995925c86285807a2eba2.jpg"
+    ],
+    "downloadUrl": "https://github.com/Koichive/RSDKv3-PSP/releases/download/1.0/RSDKv3-PSP-v1.1.zip",
+    "language": [
+      "en-US",
+      "de-DE",
+      "it-IT",
+      "ch-ZN",
+      "fr-FR"
+    ],
+    "isTrial": false
   }
 ]
