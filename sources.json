@@ -15,7 +15,7 @@
   {
     "id": "test2",
     "name": "Ecureuil test source 2",
-    "description": "This is the second Ecureuil test source"
+    "description": "This is the second Ecureuil test source",
     "category": ["Games", "Scripting"],
     "url": "https://fraaaaa4.github.io/ecureuil-source-example/source-name-index.json",
     "originalUrl": "https://www.google.com",
