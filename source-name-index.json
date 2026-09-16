@@ -23,7 +23,7 @@
     "architecture": "x86-32",
     "installParameters": [],
     "DownloadPath": "7z920.msi",
-    "fileType": "exe",
+    "fileType": "msi",
     "uninstallParameters": [],
     "isPortable": true,
     "compatibility": [
