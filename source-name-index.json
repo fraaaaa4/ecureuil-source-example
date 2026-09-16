@@ -25,7 +25,7 @@
     "DownloadPath": "7z920.msi",
     "fileType": "msi",
     "uninstallParameters": [],
-    "isPortable": true,
+    "isPortable": false,
     "compatibility": [
       "2000",
       "8.0",
