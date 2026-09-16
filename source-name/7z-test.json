@@ -19,7 +19,7 @@
   "DownloadPath": "7z920.msi",
   "fileType": "msi",
   "uninstallParameters": [],
-  "isPortable": true,
+  "isPortable": false,
   "compatibility": ["2000", "8.0", "8.1", "10"],
   "iconUrl": "https://logodix.com/logo/1966283.png",
   "screenshots": ["https://images.filepuma.com/screenshots/compression/7-zip-(32bit)/wa_FP-yy2SQ4XHto.jpg"],
