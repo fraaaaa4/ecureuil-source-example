@@ -15,7 +15,7 @@
   "isImmersive": //true or false, true if its a Metro or UWP app, false otherwise,
   "links": [] //any links for the app you might want to,
   "installParameters": [] //parameters to install,
-  "DownloadPath": //where the file should be placed upon download, can be overwritten by the user
+  "DownloadPath": //the name or path of the executable that should be run on the computer
   "fileType": //extension of the file downloaded, 
   "uninstallParameters": [] //parameters for uninstall,
   "isPortable": //true or false, true if it's portable, false if it's an installer,
@@ -33,3 +33,5 @@
 //languages must be written in standard format, e.g. en-US
 //architectures must be written as: arm32, arm64, x86-32, x86-64. Other formats will be displayed not formatted in the front-end
 //fileType is essential, as this is used to automatically determine the installation method
+  //DownloadPath is essential: it must be the path (from the root of the downloaded package) or the name of the executable that should be run by the user. If you have a zip with your app inside /bin/App.exe, this is what DownloadPath should have
+  //It must be correct otherwise Ecureuil can't either execute correctly the setup inside a .zip file, or correctly copy the file in Program Fiels, and then add the start menu entry
